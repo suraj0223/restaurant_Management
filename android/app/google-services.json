@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026480314891",
+    "project_id": "restro-c6842",
+    "storage_bucket": "restro-c6842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026480314891:android:21e8435c4d0b38446ec50e",
+        "android_client_info": {
+          "package_name": "com.metarax.restro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026480314891-40tqk1qalfdi2tc9nu3l9pqqm9hc9124.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEIAp8TPTFH3wcwbgcEXol1n3uyrYmH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026480314891-40tqk1qalfdi2tc9nu3l9pqqm9hc9124.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
